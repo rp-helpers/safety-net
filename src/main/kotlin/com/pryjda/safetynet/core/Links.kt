@@ -3,7 +3,7 @@ package com.pryjda.safetynet.core
 //https://medium.com/@herrjemand/verifying-fido2-safetynet-attestation-bd261ce1978d
 //https://github.com/googlesamples/android-play-safetynet/tree/master/server/java
 //https://github.com/google/webauthndemo/blob/master/src/main/java/com/google/webauthn/gaedemo/crypto/OfflineVerify.java
-//https://medium.com/@hargoyal/secure-android-app-with-safetynet-8e367a1c8ad0
+//https://medium.com/@hargoyal/secure-android-app-with-safetynet-8e367a1c8ad0 <====================================================== path to google cloud console
 //https://github.com/w3c/webauthn/issues/1132
 //https://github.com/w3c/webauthn/issues/1132
 //https://medium.com/@scottyab/safetynet-helper-an-android-open-source-wrapper-for-the-google-safety-net-api-c2e7591f7d38
