@@ -25,7 +25,7 @@ class OnlineVerify {
     // Please use the Google Developers Console (https://console.developers.google.com/)
     // to create a project, enable the Android Device Verification API, generate an API key
     // and add it here.
-    private val API_KEY = "AIzaSyCqc1_-btSSt0vHQXVSeJNAAD83ERrWJY4"
+    private val API_KEY = "AIqrqtCqc1_-btSSt0vHQXV141255ERrWJY4"
 
     private val HTTP_TRANSPORT = NetHttpTransport()
 
